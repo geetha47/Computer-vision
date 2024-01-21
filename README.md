@@ -1,6 +1,7 @@
 **Title: Paperclip defect detection**
 
 Developed a CNN model using TensorFlow and Keras for efficient paperclip defect detection. Utilizes OpenCV for image classification, contour detection, and offers object recognition on defective paperclips.
+
 **Building a cnn image classifer**
 Steps performed:
 1. Data creation
